@@ -1,0 +1,42 @@
+[2023-09-19 22:36:20]: Không tìm thấy từ: ahA
+[2023-09-19 22:36:22]: Không tìm thấy từ: AHA
+[2023-09-19 22:36:25]: Không tìm thấy từ: aha
+[2023-09-19 22:36:27]: Tra cứu từ: a ha
+=>> Nghĩa: * excl
+- Aha, ha; hurrah, hurray
+=a ha! tên trộm bị cảnh sát tóm rồi!+Ha! the thief is caught by the police!
+=a ha! cô gái xinh quá!+hurrah! What a pretty girl!
+
+[2023-09-19 22:36:31]: Tra cứu từ: BÀN PHÍM
+=>> Nghĩa: * noun
+- Keyboard
+=nhấn một phím trên bàn phím+to press a key on the keyboard
+=người thao tác trên một bàn phím+a keyboarder
+=bàn phím nhỏ trên máy điện thoại (thay cho dĩa quay số)+key-pad
+
+[2023-09-19 22:36:59]: Thêm từ mới: nhóm 7
+=>> Nghĩa: GROUP 7
+[2023-09-19 22:37:05]: Tra cứu từ: nHóM 7
+=>> Nghĩa: GROUP 7
+[2023-09-19 22:37:12]: Không tìm thấy từ: hình ảnh
+[2023-09-19 22:37:28]: Tra cứu từ: hÀnh Lý
+=>> Nghĩa: * noun
+-baggage; luggage
+
+[2023-09-19 22:38:26]: Tra cứu từ: yếu tố
+=>> Nghĩa: * noun
+- element, factor
+
+[2023-09-19 22:38:31]: Tra cứu từ: QUAN TRỌNG
+=>> Nghĩa: * adj
+- important, chief; grave
+=việc rất quan trọng+Matter of great import
+
+[2023-09-19 22:40:37]: Tra cứu từ: hành chính
+=>> Nghĩa: - Aministration
+
+[2023-09-27 20:09:20]: Tra cứu từ: quản lý
+=>> Nghĩa: * verb
+-to manage
+=quản lý nhà máy+to manage a factory
+
