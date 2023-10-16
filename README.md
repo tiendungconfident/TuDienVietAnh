@@ -27,6 +27,6 @@ This project is created and developed by [@tiendungconfident] as part of a cours
 We welcome contributions to this project. If you have ideas or wish to contribute code, please create a pull request or open a new issue on GitHub.
 
 ## Contact
-If you have any questions or need assistance with this assignment, please feel free to [contact Tiendung on GitHub](https://github.com/tiendungconfident).
+If you have any questions or need assistance with this assignment, please feel free to [contact Tien Dung on GitHub](https://github.com/tiendungconfident).
 
 Thank you for your interest in our Vietnamese-English Dictionary project. We look forward to collaborating and receiving contributions from the software development community.
