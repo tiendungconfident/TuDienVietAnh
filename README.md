@@ -11,7 +11,7 @@ The Vietnamese-English Dictionary project is an application built using Python a
 ## How to Use
 1. To run the application, ensure Python 3.x is installed on your computer.
 2. Download the project to your computer or copy the source code from this repository.
-3. Open the project in a Python code editor and run the `main.py` file.
+3. Open the project in a Python code editor and run the `ChuongTrinhChinh.py` file.
 
 ## Requirements
 - Python 3.x
