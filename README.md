@@ -21,7 +21,7 @@ The Vietnamese-English Dictionary project is an application built using Python a
 - PIL (Pillow) library
 
 ## Author
-This project is created and developed by [@tiendungconfident] as part of a coursework assignment.
+This project is created and developed by [@tiendungconfident](https://github.com/tiendungconfident) as part of a coursework assignment.
 
 ## Contribute
 We welcome contributions to this project. If you have ideas or wish to contribute code, please create a pull request or open a new issue on GitHub.
